@@ -1,4 +1,4 @@
-## ✨ Website ucapan ulang tahun
+## ✨ Website ucapan ulang tahun untuk Kenia
 
 [demo](https://hbd-jubed.netlify.app/)
 
