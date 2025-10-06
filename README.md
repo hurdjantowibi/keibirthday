@@ -1,6 +1,6 @@
 ## ✨ Website ucapan ulang tahun untuk Kenia
 
-[demo](https://hbd-jubed.netlify.app/)
+[demo](https://hurdjantowibi.github.io/keibirthday/)
 
 ## 🚀 Quick start
 
@@ -8,7 +8,7 @@
 
    ```bash
    # clone repo dengan git command berikut
-   $ git clone https://github.com/aafrzl/ucapan-ultah.git
+   $ git clone https://github.com/hurdjantowibi/keibirthday.git
 
    # masuk ke folder project
    $ cd ucapan-ultah
