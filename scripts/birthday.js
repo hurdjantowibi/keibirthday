@@ -3,14 +3,14 @@
 // Animation GSAP timeline on load event
 window.addEventListener("load", () => {
   Swal.fire({
-    title: "Do you want to play music in the background?",
+    title: "Gimana kalo sambil denger musik kei?",
     // text: "You won't be able to revert this!",
     icon: "warning",
     showCancelButton: true,
     confirmButtonColor: "#3085d6",
     cancelButtonColor: "#d33",
-    confirmButtonText: "Yes",
-    cancelButtonText: "No",
+    confirmButtonText: "Boleh gas!",
+    cancelButtonText: "Gak dulu deh",
   }).then((result) => {
     if (result.isConfirmed) {
       document.querySelector(".song").play();
